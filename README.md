@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/eshu1905/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
