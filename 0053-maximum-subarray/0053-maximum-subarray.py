@@ -1,11 +1,13 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        m=nums[0]
+        l=nums[0]
         s=0
+        c=-1
         for i in range(len(nums)):
             s+=nums[i]
-            m=max(m,s)
+            l=max(l,s)
             if s<0:
-                s=0
-        return m            
+                s=0    
+        return l       
+
         
