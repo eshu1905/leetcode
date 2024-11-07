@@ -3,7 +3,7 @@ class Solution:
         def time(k):
             t=0
             for i in piles:
-                t+=math.ceil((i)/k)
+                t+=ceil((i)/k)
             return t
         low=1
         high=max(piles)
