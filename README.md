@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/eshu1905/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/eshu1905/leetcode/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/eshu1905/leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/eshu1905/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/eshu1905/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshu1905/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/eshu1905/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
