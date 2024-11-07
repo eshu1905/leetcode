@@ -1,14 +1,23 @@
 class Solution(object):
     def singleNonDuplicate(self, nums):
         n=len(nums)
-        for i in range(n):
-            if n==1:
-                return nums[0]
-            if i==0 and nums[i]!=nums[i+1]:
-                return nums[i]
-            elif i==n-1 and nums[i]!=nums[i-1]:
-                return nums[i]
+        if n==1:
+            return nums[0]
+        if nums[0]!=nums[1]:
+            return nums[0]
+        if nums[n-1]!=nums[n-2]:
+            return nums[n-1]
+        low=1
+        high=n-2
+        while(low<=high):
+            mid=(low+high)//2
+            if nums[mid]!=nums[mid+1] and nums[mid]!=nums[mid-1]:
+                return nums[mid]
+            if (mid%2==1 and nums[mid]==nums[mid-1]) or (mid%2==0 and nums[mid]==nums[mid+1]):
+                low=mid+1
             else:
-                if nums[i]!=nums[i+1] and nums[i]!=nums[i-1]:
-                    return nums[i]                               
+                high=mid-1
+        return -1        
+                      
+
             
