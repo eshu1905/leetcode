@@ -10,7 +10,7 @@ class Solution:
             elif i==")":
                 balence-=1
                 if balence>0:
-                    result+=i
+                    result+=i   
         return result                                
 
 
