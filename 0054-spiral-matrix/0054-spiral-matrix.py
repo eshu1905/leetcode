@@ -3,11 +3,10 @@ class Solution:
         ans=[]
         n=len(matrix)
         m=len(matrix[0])
-        top=0
-        left=0
-        bottom=n-1
+        top,left=0,0
         right=m-1
-        while(top<=bottom and left<=right):
+        bottom=n-1
+        while top<=bottom and left<=right:
             for i in range(left,right+1):
                 ans.append(matrix[top][i])
             top+=1
@@ -18,9 +17,11 @@ class Solution:
                 for i in range(right,left-1,-1):
                     ans.append(matrix[bottom][i])
                 bottom-=1
-            if left<=right:
+            if left<=right:    
                 for i in range(bottom,top-1,-1):
                     ans.append(matrix[i][left])
                 left+=1
-        return ans                            
+        return ans            
+
+                                   
         
