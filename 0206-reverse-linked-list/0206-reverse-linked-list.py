@@ -8,11 +8,9 @@ class Solution:
         temp=head
         prev=None
         while temp:
-            frount=temp.next
+            nextnode=temp.next
             temp.next=prev
             prev=temp
-            temp=frount
+            temp=nextnode
         return prev    
-
-        
         
