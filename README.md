@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/eshu1905/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/eshu1905/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/eshu1905/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/eshu1905/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/eshu1905/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/eshu1905/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/eshu1905/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/eshu1905/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/eshu1905/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/eshu1905/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/eshu1905/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/eshu1905/leetcode/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
