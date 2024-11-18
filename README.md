@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/eshu1905/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/eshu1905/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/eshu1905/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/eshu1905/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshu1905/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eshu1905/leetcode/tree/master/0118-pascals-triangle) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/eshu1905/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/eshu1905/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/eshu1905/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/eshu1905/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/eshu1905/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
