@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/eshu1905/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/eshu1905/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/eshu1905/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/eshu1905/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/eshu1905/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/eshu1905/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/eshu1905/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/eshu1905/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/eshu1905/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 ## Union Find
 |  |
 | ------- |
