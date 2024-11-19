@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/eshu1905/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/eshu1905/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/eshu1905/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eshu1905/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/eshu1905/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/eshu1905/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/eshu1905/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/eshu1905/leetcode/tree/master/0290-word-pattern) |
 | [0812-rotate-string](https://github.com/eshu1905/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/eshu1905/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/eshu1905/leetcode/tree/master/1894-merge-strings-alternately) |
