@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/eshu1905/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/eshu1905/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/eshu1905/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/eshu1905/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshu1905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/eshu1905/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/eshu1905/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/eshu1905/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/eshu1905/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/eshu1905/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Union Find
