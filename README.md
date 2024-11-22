@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/eshu1905/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/eshu1905/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/eshu1905/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/eshu1905/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/eshu1905/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eshu1905/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshu1905/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/eshu1905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshu1905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Greedy
 |  |
 | ------- |
