@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/eshu1905/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1833-find-the-highest-altitude](https://github.com/eshu1905/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/eshu1905/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/eshu1905/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/eshu1905/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
