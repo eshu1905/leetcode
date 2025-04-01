@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/eshu1905/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/eshu1905/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/eshu1905/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
+| [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
