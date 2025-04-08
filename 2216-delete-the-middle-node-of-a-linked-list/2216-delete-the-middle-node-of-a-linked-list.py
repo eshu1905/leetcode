@@ -1,20 +1,24 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+class Solution(object):
+    def deleteMiddle(self, head):
         if not head or not head.next:
             return None
         slow=head
         fast=head
         prev=None
+
         while fast and fast.next:
+            fast=fast.next.next
             prev=slow
             slow=slow.next
-            fast=fast.next.next
-        if prev:
-            prev.next=prev.next.next
-        return head 
+        prev.next=slow.next
+        return head    
+        """
+        :type head: Optional[ListNode]
+        :rtype: Optional[ListNode]
+        """
         
