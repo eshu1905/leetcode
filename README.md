@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/eshu1905/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/eshu1905/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/eshu1905/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/eshu1905/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
 |  |
 | ------- |
