@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/eshu1905/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/eshu1905/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/eshu1905/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/eshu1905/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Database
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/eshu1905/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/eshu1905/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/eshu1905/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
