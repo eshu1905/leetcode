@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/eshu1905/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/eshu1905/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/eshu1905/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/eshu1905/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/eshu1905/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/eshu1905/leetcode/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/eshu1905/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eshu1905/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/eshu1905/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshu1905/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eshu1905/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/eshu1905/leetcode/tree/master/0125-valid-palindrome) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eshu1905/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/eshu1905/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/eshu1905/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/eshu1905/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/eshu1905/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/eshu1905/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/eshu1905/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/eshu1905/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
