@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/eshu1905/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/eshu1905/leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/eshu1905/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/eshu1905/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/eshu1905/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/eshu1905/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/eshu1905/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/eshu1905/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
