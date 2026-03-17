@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/eshu1905/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/eshu1905/leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/eshu1905/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-defuse-the-bomb](https://github.com/eshu1905/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/eshu1905/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/eshu1905/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/eshu1905/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/eshu1905/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/eshu1905/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/eshu1905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0787-sliding-puzzle](https://github.com/eshu1905/leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Greedy
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/eshu1905/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/eshu1905/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/eshu1905/leetcode/tree/master/0605-can-place-flowers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/eshu1905/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
