@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/eshu1905/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/eshu1905/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eshu1905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/eshu1905/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eshu1905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/eshu1905/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/eshu1905/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
