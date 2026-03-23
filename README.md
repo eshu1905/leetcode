@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/eshu1905/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/eshu1905/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/eshu1905/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/eshu1905/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/eshu1905/leetcode/tree/master/1656-count-good-triplets) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/eshu1905/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/eshu1905/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/eshu1905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0787-sliding-puzzle](https://github.com/eshu1905/leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/eshu1905/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eshu1905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
