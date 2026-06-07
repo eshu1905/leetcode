@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eshu1905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/eshu1905/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/eshu1905/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/eshu1905/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eshu1905/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/eshu1905/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/eshu1905/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/eshu1905/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/eshu1905/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Combinatorics
 |  |
 | ------- |
