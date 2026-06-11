@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/eshu1905/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3548-find-the-count-of-good-integers](https://github.com/eshu1905/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -574,11 +575,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/eshu1905/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshu1905/leetcode/tree/master/0079-word-search) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
