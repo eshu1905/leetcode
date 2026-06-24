@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/eshu1905/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3548-find-the-count-of-good-integers](https://github.com/eshu1905/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/eshu1905/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/eshu1905/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/eshu1905/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/eshu1905/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
