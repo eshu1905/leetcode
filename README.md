@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/eshu1905/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/eshu1905/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/eshu1905/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/eshu1905/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/eshu1905/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/eshu1905/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/eshu1905/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshu1905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/eshu1905/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/eshu1905/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/eshu1905/leetcode/tree/master/0148-sort-list) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -639,4 +644,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
