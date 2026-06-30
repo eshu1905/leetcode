@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/eshu1905/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshu1905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eshu1905/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/eshu1905/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/eshu1905/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/eshu1905/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/eshu1905/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshu1905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/eshu1905/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eshu1905/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/eshu1905/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/eshu1905/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshu1905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/eshu1905/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/eshu1905/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
