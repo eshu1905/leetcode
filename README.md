@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/eshu1905/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/eshu1905/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/eshu1905/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/eshu1905/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/eshu1905/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/eshu1905/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/eshu1905/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/eshu1905/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/eshu1905/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/eshu1905/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/eshu1905/leetcode/tree/master/0621-task-scheduler) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/eshu1905/leetcode/tree/master/0787-sliding-puzzle) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/eshu1905/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -654,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
