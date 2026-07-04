@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/eshu1905/leetcode/tree/master/0787-sliding-puzzle) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/eshu1905/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/eshu1905/leetcode/tree/master/0079-word-search) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/eshu1905/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -647,10 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/eshu1905/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/eshu1905/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/eshu1905/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/eshu1905/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/eshu1905/leetcode/tree/master/3620-network-recovery-pathways) |
