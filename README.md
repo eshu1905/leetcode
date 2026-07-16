@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/eshu1905/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-flip-square-submatrix-vertically](https://github.com/eshu1905/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/eshu1905/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/eshu1905/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/eshu1905/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/eshu1905/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/eshu1905/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/eshu1905/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3614-process-string-with-special-operations-ii](https://github.com/eshu1905/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/eshu1905/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -605,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/eshu1905/leetcode/tree/master/0204-count-primes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshu1905/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
