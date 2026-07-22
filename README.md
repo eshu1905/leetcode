@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/eshu1905/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/eshu1905/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/eshu1905/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/eshu1905/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/eshu1905/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/eshu1905/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/eshu1905/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/eshu1905/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/eshu1905/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/eshu1905/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/eshu1905/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/eshu1905/leetcode/tree/master/3427-special-array-ii) |
 | [3488-closest-equal-element-queries](https://github.com/eshu1905/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/eshu1905/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/eshu1905/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/eshu1905/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/eshu1905/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/eshu1905/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Shortest Path
