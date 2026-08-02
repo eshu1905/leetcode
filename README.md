@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/eshu1905/leetcode/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/eshu1905/leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/eshu1905/leetcode/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/eshu1905/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/eshu1905/leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/eshu1905/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/eshu1905/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/eshu1905/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/eshu1905/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -697,4 +700,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
