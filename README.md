@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/eshu1905/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/eshu1905/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/eshu1905/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/eshu1905/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/eshu1905/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/eshu1905/leetcode/tree/master/1840-maximum-building-height) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/eshu1905/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/eshu1905/leetcode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/eshu1905/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/eshu1905/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/eshu1905/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -703,4 +707,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
