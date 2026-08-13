@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/eshu1905/leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eshu1905/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/eshu1905/leetcode/tree/master/0118-pascals-triangle) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshu1905/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eshu1905/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/eshu1905/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/eshu1905/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/eshu1905/leetcode/tree/master/0058-length-of-last-word) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshu1905/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/eshu1905/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/eshu1905/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -726,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/eshu1905/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/eshu1905/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
