@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/eshu1905/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/eshu1905/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/eshu1905/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1563-stone-game-v](https://github.com/eshu1905/leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/eshu1905/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/eshu1905/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/eshu1905/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1563-stone-game-v](https://github.com/eshu1905/leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/eshu1905/leetcode/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/eshu1905/leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/eshu1905/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/eshu1905/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/eshu1905/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/eshu1905/leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/eshu1905/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/eshu1905/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/eshu1905/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/eshu1905/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/eshu1905/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/eshu1905/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/eshu1905/leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
