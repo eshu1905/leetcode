@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/eshu1905/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/eshu1905/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshu1905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/eshu1905/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/eshu1905/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/eshu1905/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/eshu1905/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/eshu1905/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshu1905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/eshu1905/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/eshu1905/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/eshu1905/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/eshu1905/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eshu1905/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshu1905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union Find
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/eshu1905/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/eshu1905/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/eshu1905/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshu1905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/eshu1905/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/eshu1905/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/eshu1905/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/eshu1905/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/eshu1905/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
 | ------- |
